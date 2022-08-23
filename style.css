@@ -1,0 +1,175 @@
+.navbar-container {
+  display: flex;
+}
+.logo {
+  padding-top: 30px;
+  padding-left: 90px;
+  width: 120px;
+}
+
+.list {
+  display: flex;
+  padding-top: 25px;
+  padding-left: 190px;
+  list-style-type: none;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2)
+    format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+
+.list-item {
+  padding-left: 30px;
+  font-size: 25px;
+}
+
+.button-group {
+  display: flex;
+  padding-top: 40px;
+  padding-left: 180px;
+}
+
+.img1 {
+  width: 22px;
+}
+
+.search {
+  padding-left: 15px;
+}
+
+.nav-button {
+  border-radius: 10px;
+  background-color: white;
+  padding: 4px 35px 2px 35px;
+  font-size: 20px;
+}
+
+.banner {
+  padding-top: 40px;
+}
+
+.hero-container {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+
+.square {
+  padding-top: 300px;
+  padding-left: 250px;
+}
+
+.square1 {
+  width: 300px;
+}
+
+.photo {
+  padding-left: 100px;
+  padding-top: 45px;
+  position: absolute;
+}
+
+.photo1 {
+  width: 400px;
+}
+
+.globe {
+  position: absolute;
+  padding-left: 750px;
+}
+
+.globe1 {
+  width: 60px;
+}
+
+.star {
+  position: absolute;
+  padding-left: 1170px;
+  padding-top: 40px;
+}
+
+.star1 {
+  width: 50px;
+}
+
+.star2 {
+  position: absolute;
+  padding-left: 600px;
+  padding-top: 530px;
+}
+
+.star3 {
+  width: 40px;
+}
+
+.hero-container-right {
+  position: absolute;
+  padding-top: 80px;
+  padding-left: 600px;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2)
+    format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+
+.hero-description {
+  font-family: "Poppins";
+  padding-left: 80px;
+  padding-right: 100px;
+  font-size: 13px;
+  color: grey;
+  align-items: center;
+}
+
+.email {
+  padding-top: 55px;
+  padding-left: 170px;
+}
+
+.button-email {
+  padding: 1px 20px 1px 20px;
+  border-radius: 10px;
+  background-color: white;
+  font-family: "Poppins";
+  color: grey;
+  font-size: 20px;
+}
+
+.button-join {
+  padding: 1px 20px 1px 20px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  font-family: "Poppins";
+  font-size: 20px;
+}
+
+.contact {
+  font-size: 20px;
+  font-family: "Poppins";
+  padding-top: 50px;
+  padding-left: 280px;
+  color: grey;
+}
+
+.contact-heading {
+  padding-left: 12px;
+}
+
+.icons1 {
+  width: 30px;
+}
